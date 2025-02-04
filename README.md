@@ -35,7 +35,7 @@
     Welcome to the repository of our advanced course management platform, built to streamline academic scheduling and enhance user experience. Developed with React, JavaScript, HTML, and CSS, it integrates robust search capabilities, a dynamic calendar view (using DevExtreme React Scheduler), and interactive maps (via React Leaflet) for precise location tracking. The integrated “backpack” feature employs React Context and local storage, ensuring persistent data and seamless state management. Throughout the development process, we honed our skills in front-end architecture, UI/UX design, and scalable component structures. Explore the code to discover how this solution consolidates course exploration, schedule visualization, and on-map class pinpointing into a single, cohesive platform.
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://jkchi.github.io/CourseManagementTool/">View Demo</a>
     
   </p>
 </div>
@@ -119,7 +119,7 @@ This is an example of how to list things you need to use the software and how to
 
 Jinkui Chi - [chijk@umich.edu](mailto:chijk@umich.edu)
 
-Project Demo Link: [url](to be add)  
+Project Demo Link: [url](https://jkchi.github.io/CourseManagementTool/)  
 
 My Linkedin [linkedin](https://www.linkedin.com/in/jinkuichi)
 
