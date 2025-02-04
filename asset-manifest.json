@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/course-management-tool/static/css/main.8c156388.css",
+    "main.js": "/course-management-tool/static/js/main.0ecda6a1.js",
+    "index.html": "/course-management-tool/index.html",
+    "main.8c156388.css.map": "/course-management-tool/static/css/main.8c156388.css.map",
+    "main.0ecda6a1.js.map": "/course-management-tool/static/js/main.0ecda6a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c156388.css",
+    "static/js/main.0ecda6a1.js"
+  ]
+}
