@@ -1,6 +1,7 @@
 {
   "name": "main_build",
   "version": "0.1.0",
+  "homepage": "https://jkchi.github.io/CourseManagementTool",
   "private": true,
   "dependencies": {
     "@mui/material": "^5.0.0",
