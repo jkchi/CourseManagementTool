@@ -1,0 +1,76 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #ffffff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(6, 0, 0);
+}
+
+.App-link {
+  color: #000000;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+/* Class for the title inside the card. */
+.page-title {
+  color: black; /* Sets the text color to black. */
+  position: relative; /* Needed for positioning the pseudo-element absolutely relative to this element. */
+  display: inline-block; /* Ensures the element (and the pseudo-element) only takes up necessary space. */
+}
+
+/* Pseudo-element for creating the underline effect. */
+.page-title::after {
+  content: ''; /* Required for pseudo-elements, even if no actual content is added. */
+  position: absolute; /* Positions the pseudo-element absolutely within its relative parent. */
+  left: 0; /* Aligns the pseudo-element to the left edge of the parent element. */
+  bottom: -4px; /* Positions the pseudo-element just below the text. Adjust as needed. */
+  width: 100%; /* Ensures the underline spans the entire width of the text. */
+  height: 2px; /* Thickness of the underline. Adjust to change the thickness. */
+  background-color: #007bff; /* Sets the underline color. Here, it's set to a common Bootstrap primary blue. Adjust the color code to match your theme. */
+}
+
+
+/* Class for the title inside the card. */
+.course-profile {
+  text-align:left;
+  color: black; /* Sets the text color to black. */
+  position: relative; /* Needed for positioning the pseudo-element absolutely relative to this element. */
+}
+
+/* Pseudo-element for creating the underline effect. */
+.course-profile::after {
+  content: ''; /* Required for pseudo-elements, even if no actual content is added. */
+  position: absolute; /* Positions the pseudo-element absolutely within its relative parent. */
+  left: 0; /* Aligns the pseudo-element to the left edge of the parent element. */
+  bottom: -4px; /* Positions the pseudo-element just below the text. Adjust as needed. */
+  width: 100%; /* Ensures the underline spans the entire width of the text. */
+  height: 2px; /* Thickness of the underline. Adjust to change the thickness. */
+  background-color: #007bff; /* Sets the underline color. Here, it's set to a common Bootstrap primary blue. Adjust the color code to match your theme. */
+}
