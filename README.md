@@ -25,9 +25,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://www.github.com/jkchi/CourseManagementTool">
-    <img src="https://raw.githubusercontent.com/jkchi/CourseManagementTool/main/images/main_page.png" alt="Logo" width="1000" height="500">
-  </a>
 
 <h2 align="center">CourseManagementTool</h2>
 
@@ -75,14 +72,9 @@
 - **Refined UI/UX**: Responsive design leveraging React, JS, HTML, and CSS
 
 
-
-
 ### Built With
 * [![React][React.js]][React-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-
-
-
 
 
 <!-- GETTING STARTED -->
@@ -113,8 +105,27 @@ This is an example of how to list things you need to use the software and how to
    git remote -v # confirm the changes
    ```
 
+## Example  
 
+### Homepage
+  <img src="https://raw.githubusercontent.com/jkchi/CourseManagementTool/main/images/main_page.png" alt="Logo" width="1000" height="500">
+
+### Calendar View
+  <img src="https://raw.githubusercontent.com/jkchi/CourseManagementTool/main/images/calendar.png" width="1000" height="500"/>
+
+### List View
+  <img src="https://raw.githubusercontent.com/jkchi/CourseManagementTool/main/images/list.png" width="1000" height="500"/>
+
+### Map View
+  <img src="https://raw.githubusercontent.com/jkchi/CourseManagementTool/main/images/map.png" width="1000" height="500"/>
+
+### Search and Filter
+  <img src="https://raw.githubusercontent.com/jkchi/CourseManagementTool/main/images/filter_by_keywords.png" width="1000" height="500"/>
+
+### Course Detail
+  <img src="https://raw.githubusercontent.com/jkchi/CourseManagementTool/main/images/course_info.png" width="1000" height="500"/>
 <!-- CONTACT -->
+
 ## Contact and About Me
 
 Jinkui Chi - [chijk@umich.edu](mailto:chijk@umich.edu)
