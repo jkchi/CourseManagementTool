@@ -108,7 +108,7 @@ This is an example of how to list things you need to use the software and how to
 ## Example  
 
 ### Homepage
-  <img src="https://raw.githubusercontent.com/jkchi/CourseManagementTool/main/images/main_page.png" alt="Logo" width="1000" height="600">
+  <img src="https://raw.githubusercontent.com/jkchi/CourseManagementTool/main/images/main_page.png" alt="Logo" width="1200" height="600">
 
 ### Calendar View
   <img src="https://raw.githubusercontent.com/jkchi/CourseManagementTool/main/images/calendar.png" width="1000" height="600"/>
