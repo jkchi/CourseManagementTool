@@ -108,22 +108,22 @@ This is an example of how to list things you need to use the software and how to
 ## Example  
 
 ### Homepage
-  <img src="https://raw.githubusercontent.com/jkchi/CourseManagementTool/main/images/main_page.png" alt="Logo" width="1000" height="500">
+  <img src="https://raw.githubusercontent.com/jkchi/CourseManagementTool/main/images/main_page.png" alt="Logo" width="1000" height="600">
 
 ### Calendar View
-  <img src="https://raw.githubusercontent.com/jkchi/CourseManagementTool/main/images/calendar.png" width="1000" height="500"/>
+  <img src="https://raw.githubusercontent.com/jkchi/CourseManagementTool/main/images/calendar.png" width="1000" height="600"/>
 
 ### List View
-  <img src="https://raw.githubusercontent.com/jkchi/CourseManagementTool/main/images/list.png" width="1000" height="500"/>
+  <img src="https://raw.githubusercontent.com/jkchi/CourseManagementTool/main/images/list.png" width="1000" height="600"/>
 
 ### Map View
-  <img src="https://raw.githubusercontent.com/jkchi/CourseManagementTool/main/images/map.png" width="1000" height="500"/>
+  <img src="https://raw.githubusercontent.com/jkchi/CourseManagementTool/main/images/map.png" width="1000" height="600"/>
 
 ### Search and Filter
-  <img src="https://raw.githubusercontent.com/jkchi/CourseManagementTool/main/images/filter_by_keywords.png" width="1000" height="500"/>
+  <img src="https://raw.githubusercontent.com/jkchi/CourseManagementTool/main/images/filter_by_keywords.png" width="1000" height="600"/>
 
 ### Course Detail
-  <img src="https://raw.githubusercontent.com/jkchi/CourseManagementTool/main/images/course_info.png" width="1000" height="500"/>
+  <img src="https://raw.githubusercontent.com/jkchi/CourseManagementTool/main/images/course_info.png" width="1000" height="600"/>
 <!-- CONTACT -->
 
 ## Contact and About Me
